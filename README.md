@@ -36,6 +36,7 @@ cmake -S . -B build && cmake --build build --config Release && start build\Relea
 ```
 <run the executable>
 ```
+Or simply download from [Releases](https://github.com/shv187/cs2_archiver/releases)
 
 # Help 
 Feel free to open issues :)
