@@ -22,7 +22,7 @@ git clone https://github.com/shv187/cs2_archiver.git
 cd cs2_archiver
 ```
 ```
-cmake -S . -B build && cmake --build build
+cmake -S . -B build && cmake --build build --config Release
 ```
 ```
 <run the executable>
