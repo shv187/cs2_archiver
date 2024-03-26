@@ -8,9 +8,9 @@ It creates the following structure:
 ├── binaries
 │   ├── <patch_version> 
 │      ├── client
-│            ├── <files>
+│         ├── <files>
 │      ├── engine
-│            ├── <files>
+│         ├── <files>
 └──
 ```
 
