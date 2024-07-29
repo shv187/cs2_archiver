@@ -14,6 +14,9 @@ It creates the following structure:
 └──
 ```
 
+# ❗ Important ❗
+The version check is broken, and I'm not using this anymore, so I'm archiving this project. I might revert it if I ever use it again :)
+
 # Notes
 It's ❗Windows ONLY❗ at the moment.\
 It might change in the future if requested by many users in [issues](https://github.com/shv187/cs2_archiver/issues) or if I'll need it on some other OS.
